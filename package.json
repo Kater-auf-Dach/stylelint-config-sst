@@ -9,7 +9,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kater-auf-Dach/pug-lint-config-sst"
+    "url": "git+https://github.com/Kater-auf-Dach/stylelint-config-sst.git"
   },
   "author": "Kirill Mikhaylin <z@kirill.site>",
   "license": "ISC"
